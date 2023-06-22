@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button,
+input {
+    font-family: Microsoft YaHei, Heiti SC, tahoma, Arial, Helvetica, "\5B8B\4F53", sans-serif;
+    border: 0;
+    outline: none;
+}
