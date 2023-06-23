@@ -34,12 +34,13 @@ td
   font:inherit;
   /*inherit 关键字指定一个属性应从父元素继承它的值。*/
     vertical-align: baseline;/*baseline 默认。元素放置在父元素的基线上。*/
+  box-sizing: border-box;
 }
  
 body {
   font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
   color: #333;
-  min-width: 1226px
+  /* box-sizing: border-box; */
 }
  
 a{
